@@ -22,3 +22,5 @@ int main(){
         }     
     }
 }
+
+// PROBLEM 2: SIMULATING THE LOGIC OF A SIMPLE SNACK VENDING MACHINE
