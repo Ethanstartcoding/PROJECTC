@@ -1,3 +1,4 @@
+// PROBLEM 1: FIND THE LOWEST, HIGHEST, AND THE AVERAGE TEMPERATURE 
 #include <stdio.h>
 int main(){
     int temps[7] = {72, 75, 68, 80, 74, 71, 77};
