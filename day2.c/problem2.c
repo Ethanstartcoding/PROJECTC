@@ -1,3 +1,4 @@
+// PROBLEM 2: FIND THE AVAILABLE SEATS IN THE THEATER
 #include <stdio.h>
 int main(){
     int seat[3][4] = {{0,1,0,1},{1,0,0,0},{0,0,1,1}};
